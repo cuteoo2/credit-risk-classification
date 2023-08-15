@@ -3,7 +3,7 @@
 
 **Overview of the Analysis**
 
-In this challenge, various techniques were used to train and evaluate a model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was used with the aim of building a model a model that could identify the creditworthiness of borrowers based on specific features like loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
+In this challenge, various techniques were used to train and evaluate a model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was used with the aim of building a model that could identify the creditworthiness of borrowers based on specific features like loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 
 The total number of data points in the dataset was 77,536.
 
@@ -12,7 +12,7 @@ To achieve this analysis, the following actions were taken:
 
 
 
-- Data Split: The dataset was split into training and testing sets to evaluate the model's performance.
+- Data Split: The dataset was split into training and testing sets to evaluate the model's performances.
 
 - Initial Logistic Regression Model: An initial logistic regression model was created using the original data, with 75,036 low-risk data points and 2,500 high-risk data points. This model aimed to predict whether a loan to a borrower in the testing set would be classified as low risk or high risk.
 
