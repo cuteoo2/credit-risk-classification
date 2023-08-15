@@ -40,6 +40,9 @@ Logistic Regression Model 2:
 
 - Precision for label "0": 1.00 Precision for label "1": 0.87 Recall for label "0": 1.00 Recall for label "1": 1.00 F1-score for label "0": 1.00 F1-score for label "1": 0.93 Accuracy: 1.00
 
+
+
+
 **Summary**
 
 
