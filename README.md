@@ -1,7 +1,7 @@
 # credit-risk-classification Analysis Report
 
 
-Overview of the Analysis
+**Overview of the Analysis**
 
 In this challenge, various techniques were used to train and evaluate a model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was used with the aim of building a model a model that could identify the creditworthiness of borrowers based on specific features like loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 
@@ -24,7 +24,7 @@ The purpose of these steps was to compare the performance of the initial logisti
 
 
 
-Outcome:
+**Outcome:**
 
 
 
@@ -40,7 +40,7 @@ Logistic Regression Model 2:
 
 - Precision for label "0": 1.00 Precision for label "1": 0.87 Recall for label "0": 1.00 Recall for label "1": 1.00 F1-score for label "0": 1.00 F1-score for label "1": 0.93 Accuracy: 1.00
 
-Summary:
+**Summary**
 
 
 
