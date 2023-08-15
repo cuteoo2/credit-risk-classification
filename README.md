@@ -24,7 +24,7 @@ The purpose of these steps was to compare the performance of the initial logisti
 
 
 
-**Outcome:**
+**The Results:**
 
 
 
