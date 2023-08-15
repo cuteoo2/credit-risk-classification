@@ -7,7 +7,10 @@ In this challenge, various techniques were used to train and evaluate a model ba
 
 The total number of data points in the dataset was 77,536.
 
+
 To achieve this analysis, the following actions were taken:
+
+
 
 - Data Split: The dataset was split into training and testing sets to evaluate the model's performance.
 
@@ -22,11 +25,21 @@ The purpose of these steps was to compare the performance of the initial logisti
 Outcome:
 
 
-- Logistic Regression Model 1:  Precision for label "0": 1.00 Precision for label "1": 0.87 Recall for label "0": 1.00 Recall for label "1": 0.89 F1-score for label "0": 1.00 F1-score for label "1": 0.88 Accuracy: 0.99
 
-Logistic Regression Model 2:  Precision for label "0": 1.00 Precision for label "1": 0.87 Recall for label "0": 1.00 Recall for label "1": 1.00 F1-score for label "0": 1.00 F1-score for label "1": 0.93 Accuracy: 1.00
+
+Logistic Regression Model 1:
+
+
+-  Precision for label "0": 1.00 Precision for label "1": 0.87 Recall for label "0": 1.00 Recall for label "1": 0.89 F1-score for label "0": 1.00 F1-score for label "1": 0.88 Accuracy: 0.99
+
+Logistic Regression Model 2:  
+
+
+- Precision for label "0": 1.00 Precision for label "1": 0.87 Recall for label "0": 1.00 Recall for label "1": 1.00 F1-score for label "0": 1.00 F1-score for label "1": 0.93 Accuracy: 1.00
 
 Summary:
+
+
 
 
 Logistic Regression Model 2 demonstrates slightlya little better performance for the high-risk loan label, achieving perfect recall and a higher F1-score, while both models perform equally well for the healthy loan label. Logistic Regression Model 2 also has a slightly higher overall accuracy. Therefore, Logistic Regression Model 2 can be considered the better-performing model in this comparison.
